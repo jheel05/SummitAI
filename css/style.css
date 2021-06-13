@@ -166,8 +166,8 @@ body {
 .banner_captions a {
     z-index: 3;
     text-transform: uppercase;
-    color: #d6c6b2;
-    border: 2px solid #d6c6b2;
+    color: #ffffff;
+    border: 2px solid #ffffff;
     position: relative;
     font-weight: 700;
     padding: 10px 20px;
@@ -178,7 +178,7 @@ body {
 
 .banner_captions a:hover {
     color: #222;
-    background: #d6c6b2;
+    background: #ffffff;
     ;
 }
 
